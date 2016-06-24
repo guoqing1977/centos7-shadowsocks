@@ -1,1 +1,1 @@
-# centos7-shadowsocks
+# centos7-shadowsocks Dockerfile
