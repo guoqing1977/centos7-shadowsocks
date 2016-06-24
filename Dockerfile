@@ -1,6 +1,6 @@
 # shadowsocks 
 # # VERSION 0.0.3 
-FROM centos
+FROM centos7:latest
 MAINTAINER gqkkk <guoqing1977@gmail.com> 
 RUN yum -y update && \
     yum -y install epel-release && \
